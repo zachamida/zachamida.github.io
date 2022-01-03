@@ -2,7 +2,7 @@
 
 ---
 
-### Deteriioration of Infrastructures
+### Deterioration of Infrastructures
 
 This research project aims at developing machine learning methods suited for the network-scale degradation analysis of transportation infrastructure. The outcome of the project will be a set of methods that will help monitoring and maintaining existing transportation infrastructure. These techniques will enable tracking the performance of structural elements, forecasting the degradation, assessing the degradation rate changes with time and provide assistance in comparing different maintenance strategies.
 
