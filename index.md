@@ -60,12 +60,12 @@ Journal of Petroleum Science and Engineering 149, 383-392\
 ---
 
 **\[2019\]**: **State-Space Models for Network-Scale Analysis of Bridge Inspection Data.**\
-**Z. Hamida**, , J-A. Goulet\
+**Z. Hamida**, J-A. Goulet\
 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP13), Seoul, South Korea.\
 [[**PDF**](https://s-space.snu.ac.kr/bitstream/10371/153317/1/106.pdf)]
 
 **\[2019\]**: **Modeling Infrastructure Degradation from Visual Inspections Using Network-Scale State-Space Models.**\
-**Z. Hamida**, , J-A. Goulet\
+**Z. Hamida**, J-A. Goulet\
 Modeling and Numerical Methods for Uncertainty Quantification (MNMUQ 2019), Porquerolles Island, France.\
 [[**PDF**](/pdf/mnmuq2019poster.pdf)]
 
