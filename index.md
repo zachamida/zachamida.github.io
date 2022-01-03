@@ -35,24 +35,26 @@ In this webpage, you will find a list of research projects, preprints and tutori
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a>] | [[**PDF**](/pdf/QEI_Hamida_Goulet_2021 Preprint.pdf)]
 
-**\[2021\]**: **Network-Scale Deterioration Modelling of Bridges Based on Visual Inspections and Structural Attributes**\
-**Z. Hamida**, J-A. Goulet\
-Structural Safety 88\
-[<a href="https://www.youtube.com/watch?v=YLkn-RaC2IU">
+> **Network-Scale Deterioration Modelling of Bridges Based on Visual Inspections and Structural Attributes**\
+> **Z. Hamida**, J-A. Goulet\
+> Structural Safety 88\
+> [<a href="https://www.youtube.com/watch?v=YLkn-RaC2IU">
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a>], [[**PDF**](/pdf/SSMKR_Hamida_Goulet_2020 Preprint.pdf)]
 
-**\[2020\]**: **Modeling infrastructure degradation from visual inspections using network‐scale state‐space models**\
-**Z. Hamida**, J-A. Goulet\
-Structural Control and Health Monitoring 27 (9), e2582\
-[<a href="https://www.youtube.com/watch?v=GBk35UW9m5A">
+**\[2020\]**: 
+> **Modeling infrastructure degradation from visual inspections using network‐scale state‐space models**\
+> **Z. Hamida**, J-A. Goulet\
+> Structural Control and Health Monitoring 27 (9), e2582\
+> [<a href="https://www.youtube.com/watch?v=GBk35UW9m5A">
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a>] | [[**PDF**](/pdf/Hamida_Goulet_VI_SSM_2020.pdf)]
 
-**\[2017\]**: **An efficient geometry-based optimization approach for well placement in oil fields**\
-**Z. Hamida**, F. Azizi, G. Saad\
-Journal of Petroleum Science and Engineering 149, 383-392\
-[<a href="https://www.youtube.com/watch?v=Ta96GRc1aMo">
+**\[2017\]**: 
+> **An efficient geometry-based optimization approach for well placement in oil fields**\
+> **Z. Hamida**, F. Azizi, G. Saad\
+> Journal of Petroleum Science and Engineering 149, 383-392\
+> [<a href="https://www.youtube.com/watch?v=Ta96GRc1aMo">
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a>] | [[**PDF**](/pdf/WPO_Hamida_et_al_2017.pdf)]
 
