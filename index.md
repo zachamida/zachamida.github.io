@@ -6,7 +6,7 @@
 
 This research project aims at developing machine learning methods suited for the network-scale degradation analysis of transportation infrastructure. The outcome of the project will be a set of methods that will help monitoring and maintaining existing transportation infrastructure. These techniques will enable tracking the performance of structural elements, forecasting the degradation, assessing the degradation rate changes with time and provide assistance in comparing different maintenance strategies.
 
-#### List of Pre-prints
+#### Preprints List
 
 **\[2022\]**: [A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges](/pdf/Hamida_Goulet_NSA_2022.pdf)\
 Z. Hamida, J-A. Goulet\
@@ -28,7 +28,7 @@ Structural Control and Health Monitoring 27 (9), e2582
 
 ### Oil Field Development and Planning
 
-#### Pre-print
+#### Preprints List
 
 **\[2017\]**[An efficient geometry-based optimization approach for well placement in oil fields](/pdf/WPO_Hamida_et_al_2017.pdf)\
 Z. Hamida, F. Azizi, G. Saad\
@@ -41,6 +41,6 @@ Journal of Petroleum Science and Engineering 149, 383-392
 - **\[2021-\]**[Postdoctoral Research Associate](http://profs.polymtl.ca/jagoulet/Site/Goulet_web_page_ZHAMIDA.html)
 - **\[2017-2020\]**[Doctoral Research Assistant](http://profs.polymtl.ca/jagoulet/Site/Goulet_web_page_ZHAMIDA.html)
 - **\[2014-2017\]**Graduate Research Assistant
-- [Designer: 2013-](https://www.behance.net/zachamida)
+- **\[2013-\]**[Designer](https://www.behance.net/zachamida)
 
 ---
