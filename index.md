@@ -32,7 +32,7 @@ This project aims at introducing a problem-specific Genetic Algorithm (GA) appro
 
 #### Publication List
 
-**\[2017\]**[An efficient geometry-based optimization approach for well placement in oil fields](/pdf/WPO_Hamida_et_al_2017.pdf)\
+**\[2017\]**: [An efficient geometry-based optimization approach for well placement in oil fields](/pdf/WPO_Hamida_et_al_2017.pdf)\
 Z. Hamida, F. Azizi, G. Saad\
 Journal of Petroleum Science and Engineering 149, 383-392
 
