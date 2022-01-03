@@ -1,6 +1,6 @@
 # Home Page
 
-In this rersearch page, you will find a list of projects, preprints and tutorials that I've been involved in for the last few years.
+In this rersearch page, you will find a list of research projects, preprints and tutorials that I've been involved in for the last few years.
 
 ---
 
