@@ -8,22 +8,22 @@ This research project aims at developing machine learning methods suited for the
 
 #### List of Pre-prints
 
-[A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges](/pdf/Hamida_Goulet_NSA_2022.pdf)\
+\[2022\][A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges](/pdf/Hamida_Goulet_NSA_2022.pdf)\
 Z. Hamida, J-A. Goulet\
 Structural Control and Health Monitoring, e2916
 
 \
-[Quantifying the Effects of Interventions Based on Visual Inspections from a Network of Bridges](/pdf/QEI_Hamida_Goulet_2021 Preprint.pdf)\
+\[2021\][Quantifying the Effects of Interventions Based on Visual Inspections from a Network of Bridges](/pdf/QEI_Hamida_Goulet_2021 Preprint.pdf)\
 Z. Hamida, J-A. Goulet\
 Structure and Infrastructure Engineering
 
 \
-[Network-Scale Deterioration Modelling of Bridges Based on Visual Inspections and Structural Attributes](/pdf/SSMKR_Hamida_Goulet_2020 Preprint.pdf)\
+\[2021\][Network-Scale Deterioration Modelling of Bridges Based on Visual Inspections and Structural Attributes](/pdf/SSMKR_Hamida_Goulet_2020 Preprint.pdf)\
 Z. Hamida, J-A. Goulet\
 Structural Safety 88
 
 \
-[Modeling infrastructure degradation from visual inspections using network‐scale state‐space models](/pdf/Hamida_Goulet_VI_SSM_2020.pdf)\
+\[2020\][Modeling infrastructure degradation from visual inspections using network‐scale state‐space models](/pdf/Hamida_Goulet_VI_SSM_2020.pdf)\
 Z. Hamida, J-A. Goulet\
 Structural Control and Health Monitoring 27 (9), e2582
 
