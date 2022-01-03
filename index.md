@@ -12,7 +12,11 @@ This research project aims at developing machine learning methods suited for the
 
 This project examined introducing a problem-specific Genetic Algorithm (GA) approach for optimal well placement in oil fields. The evolution method used in this algorithm includes a novel genetic operator named “Similarity Operator” alongside the standard operators (i.e. Mutation and Crossover). The role of the proposed operator is to find promising solutions that share similar features with the current elite solution in the population.
 
+---
+
 ## Publications
+
+---
 
 **\[2022\]**: **A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges**\
 **Z. Hamida**, J-A. Goulet\
