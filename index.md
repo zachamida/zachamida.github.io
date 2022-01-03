@@ -1,8 +1,8 @@
-# Portfolio
+# Research Page
 
 ---
 
-## Rresearch Projects
+## Projects
 
 ---
 
