@@ -20,10 +20,10 @@ In this webpage, you will find a list of research projects, preprints and tutori
 
 ---
 
-\[2021\]: **A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges**\
-> > **Z. Hamida**, J-A. Goulet\
-> > Structural Control and Health Monitoring, e2916\
-> > [<a href="https://www.youtube.com/watch?v=vx6ATEoEuUE">
+\[2021\]: - **A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges**\
+> **Z. Hamida**, J-A. Goulet\
+> Structural Control and Health Monitoring, e2916\
+> [<a href="https://www.youtube.com/watch?v=vx6ATEoEuUE">
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a>] | [[**PDF**](/pdf/Hamida_Goulet_NSA_2022.pdf)]
 
