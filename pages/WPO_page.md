@@ -17,7 +17,7 @@
 Journal of Petroleum Science and Engineering 149, 383-392\
 [<a href="https://www.youtube.com/watch?v=Ta96GRc1aMo">
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
-</a>], [[**PDF**](/pdf/WPO_Hamida_et_al_2017.pdf)]
+</a>] | [[**PDF**](/pdf/WPO_Hamida_et_al_2017.pdf)]
 
 **\[2016\]**: **Hybrid Optimization Techniques for Oil Field Development.**\
 Z. Hamida\
