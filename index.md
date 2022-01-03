@@ -1,4 +1,6 @@
-# Porfolio
+# Portfolio
+
+---
 
 ## Rresearch Projects
 
@@ -18,7 +20,7 @@ This project examined introducing a problem-specific Genetic Algorithm (GA) appr
 
 ---
 
-**\[2022\]**: **A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges**\
+**\[2021\]**: **A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges**\
 **Z. Hamida**, J-A. Goulet\
 Structural Control and Health Monitoring, e2916\
 [<a href="https://www.youtube.com/watch?v=vx6ATEoEuUE">
