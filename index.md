@@ -26,9 +26,9 @@ Structural Control and Health Monitoring 27 (9), e2582
 
 #### Talks
 
-**\[2021\]**: [![A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges](https://img.youtube.com/vi/vx6ATEoEuUE/0.jpg)](https://www.youtube.com/watch?v=vx6ATEoEuUE)
+**\[2021\]**: [![A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges](https://img.youtube.com/vi/vx6ATEoEuUE/0.jpg  =250x)](https://www.youtube.com/watch?v=vx6ATEoEuUE)
 
-**\[2019\]**: [![Modeling infrastructure degradation from visual inspections using network‐scale state‐space models](https://img.youtube.com/vi/GBk35UW9m5A/0.jpg)](https://www.youtube.com/watch?v=GBk35UW9m5A)
+**\[2019\]**: [![Modeling infrastructure degradation from visual inspections using network‐scale state‐space models](https://img.youtube.com/vi/GBk35UW9m5A/0.jpg  =250x)](https://www.youtube.com/watch?v=GBk35UW9m5A)
 
 ---
 
