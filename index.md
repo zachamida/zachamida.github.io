@@ -2,7 +2,7 @@
 
 ---
 
-### Structural Health Monitoring
+### Deteriioration of Infrastructures
 
 This research project aims at developing machine learning methods suited for the network-scale degradation analysis of transportation infrastructure. The outcome of the project will be a set of methods that will help monitoring and maintaining existing transportation infrastructure. These techniques will enable tracking the performance of structural elements, forecasting the degradation, assessing the degradation rate changes with time and provide assistance in comparing different maintenance strategies.
 
@@ -28,7 +28,7 @@ Structural Control and Health Monitoring 27 (9), e2582
 
 ### Oil Field Development and Planning
 
-This project aims at introducing a problem-specific Genetic Algorithm (GA) approach for optimal well placement in oil fields. The evolution method used in this algorithm includes a novel genetic operator named “Similarity Operator” alongside the standard operators (i.e. Mutation and Crossover). The role of the proposed operator is to find promising solutions that share similar features with the current elite solution in the population.
+This project examined introducing a problem-specific Genetic Algorithm (GA) approach for optimal well placement in oil fields. The evolution method used in this algorithm includes a novel genetic operator named “Similarity Operator” alongside the standard operators (i.e. Mutation and Crossover). The role of the proposed operator is to find promising solutions that share similar features with the current elite solution in the population.
 
 #### Publication List
 
