@@ -6,7 +6,13 @@
 
 This research project aims at developing machine learning methods suited for the network-scale degradation analysis of transportation infrastructure. The outcome of the project will be a set of methods that will help monitoring and maintaining existing transportation infrastructure. These techniques will enable tracking the performance of structural elements, forecasting the degradation, assessing the degradation rate changes with time and provide assistance in comparing different maintenance strategies.
 
-#### Preprints List
+### Oil Field Development and Planning
+
+This project aims at introducing a problem-specific Genetic Algorithm (GA) approach for optimal well placement in oil fields. The evolution method used in this algorithm includes a novel genetic operator named “Similarity Operator” alongside the standard operators (i.e. Mutation and Crossover). The role of the proposed operator is to find promising solutions that share similar features with the current elite solution in the population.
+
+---
+
+#### Publications List
 
 **\[2022\]**: [A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges](/pdf/Hamida_Goulet_NSA_2022.pdf)\
 Z. Hamida, J-A. Goulet\
@@ -23,12 +29,6 @@ Structural Safety 88
 **\[2020\]**: [Modeling infrastructure degradation from visual inspections using network‐scale state‐space models](/pdf/Hamida_Goulet_VI_SSM_2020.pdf)\
 Z. Hamida, J-A. Goulet\
 Structural Control and Health Monitoring 27 (9), e2582
-
----
-
-### Oil Field Development and Planning
-
-#### Preprints List
 
 **\[2017\]**[An efficient geometry-based optimization approach for well placement in oil fields](/pdf/WPO_Hamida_et_al_2017.pdf)\
 Z. Hamida, F. Azizi, G. Saad\
