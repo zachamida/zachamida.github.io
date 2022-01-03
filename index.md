@@ -6,17 +6,11 @@
 
 ---
 
-### Planning Maintenance Activities on Infrastructures
+* [Planning Maintenance Activities on Infrastructures](/pages/PMA_page.md)
 
-Developing a hierarchical decision-making framework for planning network-scale maintenance activities on the network of bridges in the province of Quebec.
+* [Modelling the Deterioration of Infrastructures](/pages/SHM_page.md)
 
-### Modelling the Deterioration of Infrastructures
-
-This research project aims at developing machine learning methods suited for the network-scale degradation analysis of transportation infrastructure. The outcome of the project will be a set of methods that will help monitoring and maintaining existing transportation infrastructure. These techniques will enable tracking the performance of structural elements, forecasting the degradation, assessing the degradation rate changes with time and provide assistance in comparing different maintenance strategies.
-
-### Oil Field Development and Planning
-
-This project examines introducing a problem-specific Genetic Algorithm (GA) for optimal well placement in oil fields. The outcome of this project is a framework that improves the convergence rate to the optimal solution, while maintianing a relativly less computational cost.
+* [Oil Field Development and Planning](/pages/wpo_page.md)
 
 ---
 
