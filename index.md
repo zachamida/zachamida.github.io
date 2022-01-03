@@ -2,7 +2,9 @@
 
 ---
 
-### [Structural Health Monitoring](/SHM_page)
+### Structural Health Monitoring
+
+#### List of Pre-prints
 
 [A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges](/pdf/Hamida_Goulet_NSA_2022.pdf)
 Z. Hamida, J-A. Goulet
@@ -32,6 +34,8 @@ Structural Control and Health Monitoring 27 (9), e2582
 ---
 
 ### Oil Field Development and Planning
+
+#### Pre-print
 
 [An efficient geometry-based optimization approach for well placement in oil fields](/pdf/WPO_Hamida_et_al_2017.pdf)
 
