@@ -1,12 +1,14 @@
 title: Zachary Hamida # your name (or website title) here
 logo: "/images/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Ph.D. Civil Engineering
+  <br>
+  Ms.c. Computational Science
+  <br>
+  My research interests centre around the development and utilization of machine learning methods in solving engineering problems. In addition to research, I have worked with different startups as a data scientist.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://scholar.google.ca/citations?user=J7NHpmYAAAAJ&hl=en&oi=ao">Scholar</a> 
-  <a href="https://www.linkedin.com/in/zacharyhamida/">LinkedIn</a> 
+  <a href="https://scholar.google.ca/citations?user=J7NHpmYAAAAJ&hl=en&oi=ao">Scholar</a> ,  
+  <a href="https://www.linkedin.com/in/zacharyhamida/">LinkedIn</a> ,  
   <a href="https://github.com/zachamida">Github</a> 
   
 theme: jekyll-theme-minimal
