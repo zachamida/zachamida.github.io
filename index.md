@@ -40,9 +40,9 @@ In this webpage, you will find a list of research projects, preprints and tutori
 > Structural Safety 88\
 > [<a href="https://www.youtube.com/watch?v=YLkn-RaC2IU">
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
-</a>], [[**PDF**](/pdf/SSMKR_Hamida_Goulet_2020 Preprint.pdf)]
+</a>] | [[**PDF**](/pdf/SSMKR_Hamida_Goulet_2020 Preprint.pdf)]
 
-**\[2020\]**: 
+\[2020\]:
 > **Modeling infrastructure degradation from visual inspections using network‐scale state‐space models**\
 > **Z. Hamida**, J-A. Goulet\
 > Structural Control and Health Monitoring 27 (9), e2582\
@@ -50,7 +50,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a>] | [[**PDF**](/pdf/Hamida_Goulet_VI_SSM_2020.pdf)]
 
-**\[2017\]**: 
+\[2017\]:
 > **An efficient geometry-based optimization approach for well placement in oil fields**\
 > **Z. Hamida**, F. Azizi, G. Saad\
 > Journal of Petroleum Science and Engineering 149, 383-392\
@@ -64,13 +64,14 @@ In this webpage, you will find a list of research projects, preprints and tutori
 
 ---
 
-**\[2019\]**: **State-Space Models for Network-Scale Analysis of Bridge Inspection Data.**\
-**Z. Hamida**, J-A. Goulet\
-13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP13), Seoul, South Korea.\
-[[**PDF**](https://s-space.snu.ac.kr/bitstream/10371/153317/1/106.pdf)]
+\[2019\]:
+> **State-Space Models for Network-Scale Analysis of Bridge Inspection Data.**\
+> **Z. Hamida**, J-A. Goulet\
+> 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP13), Seoul, South Korea.\
+> [[**PDF**](https://s-space.snu.ac.kr/bitstream/10371/153317/1/106.pdf)]
 
-**\[2019\]**: **Modeling Infrastructure Degradation from Visual Inspections Using Network-Scale State-Space Models.**\
-**Z. Hamida**, J-A. Goulet\
+> **Modeling Infrastructure Degradation from Visual Inspections Using Network-Scale State-Space Models.**\
+> **Z. Hamida**, J-A. Goulet\
 Modeling and Numerical Methods for Uncertainty Quantification (MNMUQ 2019), Porquerolles Island, France.\
 [[**PDF**](/pdf/mnmuq2019poster.pdf)]
 
@@ -80,14 +81,16 @@ Modeling and Numerical Methods for Uncertainty Quantification (MNMUQ 2019), Porq
 
 ---
 
-**\[2020\]**: **Stochastic Modelling of Infrastructures Deterioration and Interventions based on Network-Scale Visual Inspections.**\
-Z. Hamida\
-Ph.D. Thesis, Polytechnique Montreal, Canada.\
-[[**PDF**](/pdf/ZacharyHamida_PhDThesis_2020.pdf)]
+\[2020\]:
+> **Stochastic Modelling of Infrastructures Deterioration and Interventions based on Network-Scale Visual Inspections.**\
+> Z. Hamida\
+> Ph.D. Thesis, Polytechnique Montreal, Canada.\
+> [[**PDF**](/pdf/ZacharyHamida_PhDThesis_2020.pdf)]
 
-**\[2016\]**: **Hybrid Optimization Techniques for Oil Field Development.**\
-Z. Hamida\
-MS.c. Thesis, American University of Beirut, Lebanon.\
-[[**PDF**](https://scholarworks.aub.edu.lb/bitstream/handle/10938/20890/t-6558.pdf?sequence=1)]
+\[2016\]: 
+> **Hybrid Optimization Techniques for Oil Field Development.**\
+> Z. Hamida\
+> MS.c. Thesis, American University of Beirut, Lebanon.\
+> [[**PDF**](https://scholarworks.aub.edu.lb/bitstream/handle/10938/20890/t-6558.pdf?sequence=1)]
 
 ---
