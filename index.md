@@ -1,3 +1,5 @@
+# Porfolio
+
 ## Rresearch Projects
 
 ---
@@ -6,7 +8,11 @@
 
 This research project aims at developing machine learning methods suited for the network-scale degradation analysis of transportation infrastructure. The outcome of the project will be a set of methods that will help monitoring and maintaining existing transportation infrastructure. These techniques will enable tracking the performance of structural elements, forecasting the degradation, assessing the degradation rate changes with time and provide assistance in comparing different maintenance strategies.
 
-#### Publications List
+### Oil Field Development and Planning
+
+This project examined introducing a problem-specific Genetic Algorithm (GA) approach for optimal well placement in oil fields. The evolution method used in this algorithm includes a novel genetic operator named “Similarity Operator” alongside the standard operators (i.e. Mutation and Crossover). The role of the proposed operator is to find promising solutions that share similar features with the current elite solution in the population.
+
+## Publications
 
 **\[2022\]**: **A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges**\
 **Z. Hamida**, J-A. Goulet\
@@ -35,14 +41,6 @@ Structural Control and Health Monitoring 27 (9), e2582\
 [<a href="https://www.youtube.com/watch?v=GBk35UW9m5A">
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a>], [[**PDF**](/pdf/Hamida_Goulet_VI_SSM_2020.pdf)]
-
----
-
-### Oil Field Development and Planning
-
-This project examined introducing a problem-specific Genetic Algorithm (GA) approach for optimal well placement in oil fields. The evolution method used in this algorithm includes a novel genetic operator named “Similarity Operator” alongside the standard operators (i.e. Mutation and Crossover). The role of the proposed operator is to find promising solutions that share similar features with the current elite solution in the population.
-
-#### Publication List
 
 **\[2017\]**: **An efficient geometry-based optimization approach for well placement in oil fields**\
 **Z. Hamida**, F. Azizi, G. Saad\
