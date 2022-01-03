@@ -53,7 +53,11 @@ Journal of Petroleum Science and Engineering 149, 383-392\
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a>], [[**PDF**](/pdf/WPO_Hamida_et_al_2017.pdf)]
 
+---
+
 ## Conferences and Workshops
+
+---
 
 **\[2019\]**: **State-Space Models for Network-Scale Analysis of Bridge Inspection Data.**\
 **Z. Hamida**, , J-A. Goulet\
@@ -65,7 +69,11 @@ Journal of Petroleum Science and Engineering 149, 383-392\
 Modeling and Numerical Methods for Uncertainty Quantification (MNMUQ 2019), Porquerolles Island, France.\
 [[**PDF**](/pdf/mnmuq2019poster.pdf)]
 
+---
+
 ## Thesis
+
+---
 
 **\[2020\]**: **Stochastic Modelling of Infrastructures Deterioration and Interventions based on Network-Scale Visual Inspections.**\
 Z. Hamida\
