@@ -1,8 +1,8 @@
-# Research Page
+# Home Page
 
 ---
 
-## Projects
+## Research Projects
 
 ---
 
