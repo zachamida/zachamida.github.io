@@ -16,7 +16,7 @@ This research project aims at developing machine learning methods suited for the
 
 ### Oil Field Development and Planning
 
-This project examined introducing a problem-specific Genetic Algorithm (GA) approach for optimal well placement in oil fields. The evolution method used in this algorithm includes a novel genetic operator named “Similarity Operator” alongside the standard operators (i.e. Mutation and Crossover). The role of the proposed operator is to find promising solutions that share similar features with the current elite solution in the population.
+This project examines introducing a problem-specific Genetic Algorithm (GA) for optimal well placement in oil fields. The outcome of this project is a framework that improves the convergence rate to the optimal solution, while maintianing a relativly less computational cost.
 
 ---
 
