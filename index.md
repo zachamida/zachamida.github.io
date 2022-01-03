@@ -1,4 +1,4 @@
-# [Zachary Hamida | HomePage](https://zachamida.github.io)
+# [Homepage](https://zachamida.github.io)
 
 In this webpage, you will find a list of research projects, preprints and tutorials that I've been involved in for the last few years.
 
