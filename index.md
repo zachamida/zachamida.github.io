@@ -106,7 +106,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 \[2016\]: 
 > **Hybrid Optimization Techniques for Oil Field Development.**\
 > Z. Hamida\
-> MS.c. Thesis, American University of Beirut, Lebanon.\
+> M.Sc. Thesis, American University of Beirut, Lebanon.\
 > <a href="https://scholarworks.aub.edu.lb/bitstream/handle/10938/20890/t-6558.pdf?sequence=1">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a>
