@@ -29,7 +29,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 </a>] | [<a href="/pdf/Hamida_Goulet_NSA_2022.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a>]
-
+>
 > **Quantifying the Effects of Interventions Based on Visual Inspections from a Network of Bridges**\
 > **Z. Hamida**, J-A. Goulet\
 > Structure and Infrastructure Engineering\
@@ -38,7 +38,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 </a>] | [<a href="/pdf/QEI_Hamida_Goulet_2021 Preprint.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a>]
-
+>
 > **Network-Scale Deterioration Modelling of Bridges Based on Visual Inspections and Structural Attributes**\
 > **Z. Hamida**, J-A. Goulet\
 > Structural Safety 88\
@@ -78,12 +78,16 @@ In this webpage, you will find a list of research projects, preprints and tutori
 > **State-Space Models for Network-Scale Analysis of Bridge Inspection Data.**\
 > **Z. Hamida**, J-A. Goulet\
 > 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP13), Seoul, South Korea.\
-> [[**PDF**](https://s-space.snu.ac.kr/bitstream/10371/153317/1/106.pdf)]
-
+> [<a href="https://s-space.snu.ac.kr/bitstream/10371/153317/1/106.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>]
+>
 > **Modeling Infrastructure Degradation from Visual Inspections Using Network-Scale State-Space Models.**\
 > **Z. Hamida**, J-A. Goulet\
-Modeling and Numerical Methods for Uncertainty Quantification (MNMUQ 2019), Porquerolles Island, France.\
-[[**PDF**](/pdf/mnmuq2019poster.pdf)]
+> Modeling and Numerical Methods for Uncertainty Quantification (MNMUQ 2019), Porquerolles Island, France.\
+> [<a href="/pdf/mnmuq2019poster.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>]
 
 ---
 
