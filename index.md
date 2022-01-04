@@ -38,7 +38,8 @@ In this webpage, you will find a list of research projects, preprints and tutori
 </a> | <a href="/pdf/QEI_Hamida_Goulet_2021 Preprint.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a>
->
+
+\[2020\]:
 > **Network-Scale Deterioration Modelling of Bridges Based on Visual Inspections and Structural Attributes**\
 > **Z. Hamida**, J-A. Goulet\
 > Structural Safety 88\
@@ -47,8 +48,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 </a> | <a href="/pdf/SSMKR_Hamida_Goulet_2020 Preprint.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a>
-
-\[2020\]:
+>
 > **Modeling infrastructure degradation from visual inspections using network‐scale state‐space models**\
 > **Z. Hamida**, J-A. Goulet\
 > Structural Control and Health Monitoring 27 (9), e2582\
