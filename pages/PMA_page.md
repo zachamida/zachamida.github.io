@@ -4,6 +4,6 @@
 
 **Funding:** Quebec Transportation Ministry (MTQ)
 
-**Development Methods:** Reinforcement Learning, Deep Q-Learning, Artificial Neural Network, Kalman Filter & Smoother
+**Development Methods:** Reinforcement Learning, Deep Q-Learning, Artificial Neural Network, Kalman Filter & Smoother, Gaussian Mixture Reduction
 
 **Development Tools:** Python (Development, Pytorch), MATLAB (Development, App Designer), Github

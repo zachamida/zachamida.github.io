@@ -4,7 +4,7 @@
 
 **Funding:** Quebec Transportation Ministry (MTQ)
 
-**Development Methods:** Kalman Filter & Smoother, Conditional Distribution, Kernel Regression, Gradient Optimization
+**Development Methods:** Kalman Filter & Smoother, Conditional Distribution of MVN, Kernel Regression, Gaussian Mixture Reduction, Gradient Optimization
 
 **Development Tools:** MATLAB (Development, App Designer, GPU compute), Github, MS Access
 
