@@ -22,6 +22,8 @@
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a> | <a href="/pdf/WPO_Hamida_et_al_2017.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://dx.doi.org/10.1016/j.petrol.2016.10.055">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
 </a>
 
 \[2016\]: 

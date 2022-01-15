@@ -28,6 +28,8 @@ In this webpage, you will find a list of research projects, preprints and tutori
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a> | <a href="/pdf/Hamida_Goulet_NSA_2022.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://dx.doi.org/10.1002/stc.2916">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
 </a>
 >
 > **Quantifying the Effects of Interventions Based on Visual Inspections from a Network of Bridges**\
@@ -39,7 +41,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a> | <a href="https://doi.org/10.1080/15732479.2021.1919149">
 <img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
-</a> 
+</a>
 
 \[2020\]:
 > **Network-Scale Deterioration Modelling of Bridges Based on Visual Inspections and Structural Attributes**\
@@ -49,6 +51,8 @@ In this webpage, you will find a list of research projects, preprints and tutori
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a> | <a href="/pdf/SSMKR_Hamida_Goulet_2020 Preprint.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="http://dx.doi.org/10.1016/j.strusafe.2020.102024">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
 </a>
 >
 > **Modeling infrastructure degradation from visual inspections using network‐scale state‐space models**\
@@ -58,6 +62,8 @@ In this webpage, you will find a list of research projects, preprints and tutori
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a> | <a href="/pdf/Hamida_Goulet_VI_SSM_2020.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://dx.doi.org/10.1002/stc.2582">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
 </a>
 
 \[2017\]:
@@ -68,6 +74,8 @@ In this webpage, you will find a list of research projects, preprints and tutori
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a> | <a href="/pdf/WPO_Hamida_et_al_2017.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://dx.doi.org/10.1016/j.petrol.2016.10.055">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
 </a>
 
 ---
