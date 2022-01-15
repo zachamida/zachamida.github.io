@@ -37,7 +37,9 @@ In this webpage, you will find a list of research projects, preprints and tutori
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a> | <a href="/pdf/QEI_Hamida_Goulet_2021 Preprint.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
-</a>
+</a> | <a href="https://doi.org/10.1080/15732479.2021.1919149">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a> 
 
 \[2020\]:
 > **Network-Scale Deterioration Modelling of Bridges Based on Visual Inspections and Structural Attributes**\
