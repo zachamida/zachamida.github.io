@@ -6,11 +6,26 @@
 
 **Development Methods:** Kalman Filter & Smoother, Conditional Distribution of MVN, Kernel Regression, Gaussian Mixture Reduction, Gradient Optimization
 
-**Development Tools:** MATLAB (Development, App Designer, GPU compute), Github, MS Access
+**Development Tools:** MATLAB (Including: App Designer, GPU compute), Github, MS Access
+
+**Open-source Software:** <a href="https://github.com/CivML-PolyMtl/OpenIPDM"> <img style='vertical-align:middle;' src="/images/OpenIPDM.png" width="30" height="30"></a>
 
 ---
 
 ### Resources
+<!--
+---
+\[2022\]:
+> **OpenIPDM: A Probabilistic Framework for Estimating the Deterioration and Effect of Interventions on Bridges**\
+> **Z. Hamida**, B. Laurent and J-A. Goulet\
+> SoftwareX (Submitted, Jan. 2022)\
+> <a href="https://youtube.com/playlist?list=PLSng2Crfnjmpu7RbEsfExY3gwI2FwxIjU">
+<img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
+</a> | <a href="/pdf/">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://github.com/CivML-PolyMtl/OpenIPDM">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a> -->
 
 ---
 \[2021\]:

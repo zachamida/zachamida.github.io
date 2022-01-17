@@ -6,7 +6,7 @@
 
 **Development Methods:** Genetic Algorithm, Artificial Neural Network, Similarity Measures
 
-**Development Tools:** MATLAB (Development, GUI design), Petrel Reservoir Simulator
+**Development Tools:** MATLAB (Including: GUI design), Petrel Reservoir Simulator
 
 ---
 

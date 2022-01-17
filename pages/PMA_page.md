@@ -6,4 +6,4 @@
 
 **Development Methods:** Reinforcement Learning, Deep Q-Learning, Artificial Neural Network, Kalman Filter & Smoother, Gaussian Mixture Reduction
 
-**Development Tools:** Python (Development, Pytorch), MATLAB (Development, App Designer), Github
+**Development Tools:** Python (Including: numpy, Pytorch), MATLAB (Including: App Designer), Github.
