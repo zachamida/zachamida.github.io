@@ -8,7 +8,7 @@
 
 **Development Tools:** MATLAB (Including: App Designer, GPU compute), Github, MS Access
 
-**Open-source Software:** <a href="https://github.com/CivML-PolyMtl/OpenIPDM"> <img style='vertical-align:middle;' src="/images/OpenIPDM.png" width="30" height="30"></a>
+**Open-source Software:** <a href="https://github.com/CivML-PolyMtl/OpenIPDM"> <img style='vertical-align:middle;' src="/images/OpenIPDM.png" width="80" height="30"></a>
 
 ---
 
