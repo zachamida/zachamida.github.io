@@ -8,12 +8,12 @@
 
 **Development Tools:** MATLAB (Including: App Designer, GPU compute), Github, MS Access
 
-**Open-source Software:** (Coming Soon!) <a href="https://github.com/CivML-PolyMtl/OpenIPDM"> <img style='vertical-align:middle;' src="/images/OpenIPDM.png" width="90" height="30"></a>
+**Open-source Software:** [OpenIPDM](https://github.com/CivML-PolyMtl/OpenIPDM) <a href="https://github.com/CivML-PolyMtl/OpenIPDM"> <img style='vertical-align:middle;' src="/images/OpenIPDM.png" width="90" height="30"></a>
 
 ---
 
 ### Resources
-<!--
+
 ---
 \[2022\]:
 > **OpenIPDM: A Probabilistic Framework for Estimating the Deterioration and Effect of Interventions on Bridges**\
@@ -25,7 +25,7 @@
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a> | <a href="https://github.com/CivML-PolyMtl/OpenIPDM">
 <img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
-</a> -->
+</a> 
 
 ---
 \[2021\]:

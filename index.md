@@ -17,7 +17,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 ---
 
 ## Journal Publications
-<!--
+
 ---
 
 \[2022\]:
@@ -30,7 +30,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a> | <a href="https://github.com/CivML-PolyMtl/OpenIPDM">
 <img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
-</a> -->
+</a>
 
 ---
 
