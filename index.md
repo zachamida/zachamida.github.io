@@ -32,8 +32,6 @@ In this webpage, you will find a list of research projects, preprints and tutori
 <img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
 </a>
 
----
-
 \[2021\]:
 > **A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges**\
 > **Z. Hamida**, J-A. Goulet\
