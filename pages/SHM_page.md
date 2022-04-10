@@ -18,10 +18,10 @@
 \[2022\]:
 > **OpenIPDM: A Probabilistic Framework for Estimating the Deterioration and Effect of Interventions on Bridges**\
 > **Z. Hamida**, B. Laurent and J-A. Goulet\
-> SoftwareX (Submitted, Jan. 2022)\
+> SoftwareX\
 > <a href="https://youtube.com/playlist?list=PLSng2Crfnjmpu7RbEsfExY3gwI2FwxIjU">
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
-</a> | <a href="https://arxiv.org/pdf/2201.08254.pdf"> 
+</a> | <a href="https://doi.org/10.1016/j.softx.2022.101077"> 
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a> | <a href="https://github.com/CivML-PolyMtl/OpenIPDM">
 <img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
