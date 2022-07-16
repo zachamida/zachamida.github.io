@@ -16,6 +16,20 @@
 
 ---
 \[2022\]:
+> **Estimating the Bias Associated with Inspectors in the Context of Visual Inspections on Infrastructures.**\
+> B. Laurent, **Z. Hamida**, J-A. Goulet\
+> 11th International Conference on Structural Health Monitoring of Intelligent Infrastructure (SHMII-11), Montreal, Canada.\
+> <a href=" ">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>
+>
+> **Modelling the Deterioration of Infrastructures Using Network-Scale Visual Inspections.**\
+> **Z. Hamida**, J-A. Goulet\
+> 11th International Conference on Structural Health Monitoring of Intelligent Infrastructure (SHMII-11), Montreal, Canada.\
+> <a href=" ">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>
+>
 > **OpenIPDM: A Probabilistic Framework for Estimating the Deterioration and Effect of Interventions on Bridges**\
 > **Z. Hamida**, B. Laurent and J-A. Goulet\
 > SoftwareX\
