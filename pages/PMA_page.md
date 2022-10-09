@@ -7,3 +7,5 @@
 **Development Methods:** Reinforcement Learning, Deep Q-Learning, Artificial Neural Network, Kalman Filter & Smoother, Gaussian Mixture Reduction
 
 **Development Tools:** Python (Including: numpy, Pytorch), MATLAB (Including: App Designer), Github.
+
+**Open-source Software:** [InfraPlanner](https://github.com/CivML-PolyMtl/InfrastructuresPlanner) <a href="https://github.com/CivML-PolyMtl/InfrastructuresPlanner"> <img style='vertical-align:middle;' src="/images/infraplanner_logo.png" width="90" height="30"></a>
