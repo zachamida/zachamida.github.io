@@ -21,6 +21,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href = "mailto: zac.hamida@gmail.com">Email</a> | 
   <a href="https://scholar.google.ca/citations?user=J7NHpmYAAAAJ&hl=en&oi=ao">Scholar</a> |   
   <a href="https://www.linkedin.com/in/zacharyhamida/">LinkedIn</a> |   
-  <a href="https://github.com/zachamida">Github</a> 
+  <a href="https://github.com/zachamida">Github</a>
+  <a href="/pdf/ZacharyHamidaCV.pdf">Resumé</a> 
 theme: jekyll-theme-minimal
 google_analytics: UA-216599147-1 # your Google Analytics tracking ID here
