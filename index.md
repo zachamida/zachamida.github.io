@@ -21,7 +21,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 ---
 \[2023\]:
 > **Hierarchical Reinforcement Learning for Transportation Infrastructure Maintenance Planning**\
-> **Z. Hamida** and J-A. Goulet\
+> **Z. Hamida**, J-A. Goulet\
 > Reliablity Engineering and System Safety\
 > <a href="">
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
@@ -33,7 +33,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 
 \[2022\]:
 > **OpenIPDM: A Probabilistic Framework for Estimating the Deterioration and Effect of Interventions on Bridges**\
-> **Z. Hamida**, B. Laurent and J-A. Goulet\
+> **Z. Hamida**, B. Laurent, J-A. Goulet\
 > SoftwareX\
 > <a href="https://youtube.com/playlist?list=PLSng2Crfnjmpu7RbEsfExY3gwI2FwxIjU">
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
