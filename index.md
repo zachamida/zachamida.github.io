@@ -19,6 +19,17 @@ In this webpage, you will find a list of research projects, preprints and tutori
 ## Journal Publications
 
 ---
+\[2023\]:
+> **Hierarchical Reinforcement Learning for Transportation Infrastructure Maintenance Planning**\
+> **Z. Hamida** and J-A. Goulet\
+> Reliablity Engineering and System Safety\
+> <a href="">
+<img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
+</a> | <a href="">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
 
 \[2022\]:
 > **OpenIPDM: A Probabilistic Framework for Estimating the Deterioration and Effect of Interventions on Bridges**\
