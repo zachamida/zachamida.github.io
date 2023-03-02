@@ -22,10 +22,10 @@ In this webpage, you will find a list of research projects, preprints and tutori
 \[2023\]:
 > **Hierarchical Reinforcement Learning for Transportation Infrastructure Maintenance Planning**\
 > **Z. Hamida**, J-A. Goulet\
-> Reliablity Engineering and System Safety\
+> Reliability Engineering and System Safety\
 > <a href="">
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
-</a> | <a href="">
+</a> | <a href="/pdf/Hamida_Goulet_RLI_2023_preprint.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a> | <a href="">
 <img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
