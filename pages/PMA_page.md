@@ -22,6 +22,6 @@
 > <a href="https://youtu.be/4jnUAYb9kkI">
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25"> </a> |<a href="/pdf/Hamida_Goulet_RLI_2023_preprint.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
-</a> | <a href="">
+</a> | <a href="https://doi.org/10.1016/j.ress.2023.109214">
 <img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
 </a>
