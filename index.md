@@ -76,6 +76,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 </a> | <a href="http://dx.doi.org/10.1016/j.strusafe.2020.102024">
 <img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
 </a>
+
 \[2020\]:
 > **Modeling infrastructure degradation from visual inspections using network‐scale state‐space models**\
 > **Z. Hamida**, J-A. Goulet\
