@@ -106,6 +106,21 @@ In this webpage, you will find a list of research projects, preprints and tutori
 ## Conferences and Workshops
 
 ---
+\[2023\]:
+> **Maintenance Planning for Bridges using Hierarchical Reinforcement Learning.**\
+> **Z. Hamida**, J-A. Goulet\
+> 14th International Conference on Applications of Statistics and Probability in Civil Engineering, ICASP14, Dublin, Ireland.\
+> <a href=" ">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>
+>
+> **Bayesian neural networks for large-scale infrastructure deterioration models.**\
+> S.A.K. Fakhri, **Z. Hamida**, J-A. Goulet\
+> 14th International Conference on Applications of Statistics and Probability in Civil Engineering, ICASP14, Dublin, Ireland.\
+> <a href=" ">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>
+
 \[2022\]:
 > **Estimating the Bias Associated with Inspectors in the Context of Visual Inspections on Infrastructures.**\
 > B. Laurent, **Z. Hamida**, J-A. Goulet\

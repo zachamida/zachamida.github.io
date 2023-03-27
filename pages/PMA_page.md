@@ -16,6 +16,13 @@
 
 ---
 \[2023\]:
+> **Maintenance Planning for Bridges using Hierarchical Reinforcement Learning.**\
+> **Z. Hamida**, J-A. Goulet\
+> 14th International Conference on Applications of Statistics and Probability in Civil Engineering, ICASP14, Dublin, Ireland.\
+> <a href="">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>
+>
 > **Hierarchical Reinforcement Learning for Transportation Infrastructure Maintenance Planning.**\
 > **Z. Hamida**, J-A. Goulet\
 > Reliability Engineering and System Safety.\
