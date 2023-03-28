@@ -19,7 +19,7 @@
 > **Maintenance Planning for Bridges using Hierarchical Reinforcement Learning.**\
 > **Z. Hamida**, J-A. Goulet\
 > 14th International Conference on Applications of Statistics and Probability in Civil Engineering, ICASP14, Dublin, Ireland.\
-> <a href="pdf/Hamida_Goulet_HRL_ICASP14.pdf">
+> <a href="/pdf/Hamida_Goulet_HRL_ICASP14.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a>
 >
