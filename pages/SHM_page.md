@@ -4,7 +4,7 @@
 
 **Funding:** Quebec Transportation Ministry (MTQ)
 
-**Development Methods:** Kalman Filter & Smoother, Conditional Distribution of MVN, Kernel Regression, Gaussian Mixture Reduction, Gradient Optimization
+**Development Methods:** Kalman Filter & Smoother, Conditional Distribution of MVN, Kernel Regression, Gaussian Mixture Reduction, Gradient Optimization, Baysian Neural Networks
 
 **Development Tools:** MATLAB (Including: App Designer, GPU compute), Github, MS Access
 
@@ -16,10 +16,10 @@
 
 ---
 \[2023\]:
-> **Bayesian neural networks for large-scale infrastructure deterioration models.**\
+> **Bayesian Neural Networks for Large-Scale Infrastructure Deterioration Models.**\
 > S.A.K. Fakhri, **Z. Hamida**, J-A. Goulet\
 > 14th International Conference on Applications of Statistics and Probability in Civil Engineering, ICASP14, Dublin, Ireland.\
-> <a href="">
+> <a href="pdf/ICASP14_SSM_TAGI.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a>
 
