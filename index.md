@@ -22,7 +22,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 \[2023\]:
 > **Analytical Inference for the Inspectors Uncertainty Using Network-Scale Visual Inspections.**\
 > B. Laurent, B. Deka, **Z. Hamida**, J-A. Goulet\
-> Journal of Computing in Civil Engineering
+> Journal of Computing in Civil Engineering\
 > <a href="/pdf/BL_BD_ZH_JG_2023.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a>
