@@ -16,6 +16,13 @@
 
 ---
 \[2023\]:
+> **Analytical Inference for the Inspectors Uncertainty Using Network-Scale Visual Inspections.**\
+> B. Laurent, B. Deka, **Z. Hamida**, J-A. Goulet\
+> Journal of Computing in Civil Engineering
+> <a href="/pdf/BL_BD_ZH_JG_2023.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>
+>
 > **Bayesian Neural Networks for Large-Scale Infrastructure Deterioration Models.**\
 > S.A.K. Fakhri, **Z. Hamida**, J-A. Goulet\
 > 14th International Conference on Applications of Statistics and Probability in Civil Engineering, ICASP14, Dublin, Ireland.\
