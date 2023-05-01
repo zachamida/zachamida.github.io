@@ -16,7 +16,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 
 ---
 
-## Deployed Machine Learning Models
+## Cloud Application
 
 ---
 
