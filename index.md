@@ -1,6 +1,6 @@
 # [Homepage](https://zachamida.github.io)
 
-In this webpage, you will find a list of research projects, preprints and tutorials that I've been involved in for the last few years.
+In this webpage, you will find a list of research projects, preprints and tutorials that I've been involved in for the last few years. 
 
 ---
 
@@ -9,9 +9,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 ---
 
 * [Planning Maintenance Activities on Infrastructure](/pages/PMA_page.md)
-
 * [Modelling the Deterioration of Infrastructure](/pages/SHM_page.md)
-
 * [Oil Field Development and Planning](/pages/WPO_page.md)
 
 ---
@@ -23,7 +21,11 @@ In this webpage, you will find a list of research projects, preprints and tutori
 * [OpenIPDM Light](https://openipdm-light.streamlit.app)
 * [Concrete Surface Cracks Detection](https://cracks-detection.streamlit.app)
 * [Academic Cheatsheets](https://academic-cheatsheets.streamlit.app)
-  
+
+---
+
+[Academic Cheatsheets](/pages/TIP_page.md)
+
 ---
 
 ## Journal Publications

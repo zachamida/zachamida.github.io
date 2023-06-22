@@ -33,9 +33,3 @@
 > <a href="https://scholarworks.aub.edu.lb/bitstream/handle/10938/20890/t-6558.pdf?sequence=1">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a>
-
-<iframe
-  src="https://30days.streamlit.app/?embed=true"
-  height="450"
-  style="width:100%;border:none;"
-></iframe>
