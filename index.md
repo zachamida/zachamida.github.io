@@ -20,11 +20,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 
 * [OpenIPDM Light](https://openipdm-light.streamlit.app)
 * [Concrete Surface Cracks Detection](https://cracks-detection.streamlit.app)
-* [Academic Cheatsheets](https://academic-cheatsheets.streamlit.app)
-
----
-
-[Academic Cheatsheets](/pages/TIP_page.md)
+* [Academic Cheatsheets](/pages/TIP_page.md)
 
 ---
 
