@@ -23,6 +23,8 @@
 <img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
 </a> | <a href="/pdf/BL_BD_ZH_JG_2023.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://doi.org/10.1061/JCCEE5.CPENG-5333"> 
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a>
 >
 > **Bayesian Neural Networks for Large-Scale Infrastructure Deterioration Models.**\
