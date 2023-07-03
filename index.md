@@ -36,7 +36,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 </a> | <a href="/pdf/BL_BD_ZH_JG_2023.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
 </a> | <a href="https://doi.org/10.1061/JCCEE5.CPENG-5333"> 
-<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
 </a>
 >
 > **Hierarchical Reinforcement Learning for Transportation Infrastructure Maintenance Planning**\
