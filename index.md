@@ -8,7 +8,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 
 ---
 
-* [Planning Maintenance Activities on Infrastructure](/pages/PMA_page.md)
+* [Planning Maintenance on Transportation Infrastructure](/pages/PMA_page.md)
 * [Modelling the Deterioration of Infrastructure](/pages/SHM_page.md)
 * [Oil Field Development and Planning](/pages/WPO_page.md)
 

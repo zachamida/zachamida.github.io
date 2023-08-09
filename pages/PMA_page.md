@@ -1,4 +1,4 @@
-## [Homepage](https://zachamida.github.io) / Planning Maintenance Activities on Infrastructure
+## [Homepage](https://zachamida.github.io) / Planning Maintenance on Transportation Infrastructure
 
 **Project description:** Developing a hierarchical decision-making framework for planning network-scale maintenance activities on the network of bridges in the province of Quebec.
 
