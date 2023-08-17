@@ -131,6 +131,8 @@ In this webpage, you will find a list of research projects, preprints and tutori
 > 14th International Conference on Applications of Statistics and Probability in Civil Engineering, ICASP14, Dublin, Ireland.\
 > <a href="/pdf/Hamida_Goulet_HRL_ICASP14.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="http://hdl.handle.net/2262/103207">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
 </a>
 >
 > **Bayesian Neural Networks for Large-Scale Infrastructure Deterioration Models.**\
@@ -138,6 +140,17 @@ In this webpage, you will find a list of research projects, preprints and tutori
 > 14th International Conference on Applications of Statistics and Probability in Civil Engineering, ICASP14, Dublin, Ireland.\
 > <a href="/pdf/ICASP14_SSM_TAGI.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="http://hdl.handle.net/2262/103198">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+>
+> **OpenIPDM: Une librairie ouverte pour modéliser la dégradation d’un parc d’infrastructures.**\
+> **Z. Hamida**, J-A. Goulet\
+> 29e Colloque sur la progression de la recherche québécoise concernant les ouvrages d’art, Montreal, Canada.\
+> <a href="https://www.transports.gouv.qc.ca/fr/ministere/role_ministere/colloques-congres-conferences/colloques-ouvrages-art/Documents/29/OpenIPDM%20%28Infrastructure%20Probabilistic%20Deterioration%20Model%29%20%20une%20librairie%20ouverte%20pour%20modéliser%20la%20dégradation%20d’un%20parc%20d’infrastructures.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://www.transports.gouv.qc.ca/fr/ministere/role_ministere/colloques-congres-conferences/colloques-ouvrages-art/Documents/29/OpenIPDM%20%28Infrastructure%20Probabilistic%20Deterioration%20Model%29%20%20une%20librairie%20ouverte%20pour%20modéliser%20la%20dégradation%20d’un%20parc%20d’infrastructures.pdf">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
 </a>
 
 \[2022\]:
