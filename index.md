@@ -1,6 +1,6 @@
 # [Homepage](https://zachamida.github.io)
 
-In this webpage, you will find a list of research projects, preprints and tutorials that I've been involved in for the last few years. I also write some [blog articles](/pages/blog_page.md) about my personal experinces.
+In this webpage, you will find a list of research projects, preprints and tutorials that I've been involved in for the last few years. I also write [blog articles](/pages/blog_page.md) from time to time to share my personal experinces.
 
 ---
 
