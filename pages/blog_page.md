@@ -13,3 +13,5 @@
 * [The Ensemble of Truth](https://medium.com/@zac.hamida/the-ensemble-of-truth-a23746e93e79)
 
 * [From Graduate in Engineering to Data Scientist: Navigating the Transition](https://medium.com/@zac.hamida/from-graduate-in-engineering-to-data-scientist-navigating-the-transition-c662b9c25e33)
+
+---
