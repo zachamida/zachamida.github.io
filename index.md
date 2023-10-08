@@ -4,7 +4,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 
 ---
 
-## Research Projects
+## Industry Projects
 
 ---
 
@@ -21,6 +21,14 @@ In this webpage, you will find a list of research projects, preprints and tutori
 * [OpenIPDM Light](https://openipdm-light.streamlit.app)
 * [Concrete Surface Cracks Detection](https://cracks-detection.streamlit.app)
 * [Academic Cheatsheets](/pages/TIP_page.md)
+
+---
+
+## Blog Articles
+
+---
+
+* [Medium Articles](https://medium.com/me/stories/public)
 
 ---
 
