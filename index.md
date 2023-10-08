@@ -28,7 +28,7 @@ In this webpage, you will find a list of research projects, preprints and tutori
 
 ---
 
-* [Medium Articles](https://medium.com/me/stories/public)
+* [Personal Blog](/pages/blog_page.md)
 
 ---
 
