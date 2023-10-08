@@ -4,14 +4,6 @@ In this webpage, you will find a list of research projects, preprints and tutori
 
 ---
 
-## Research Projects
-
----
-
-* [OpenIPDM: A Probabilistic Framework for Estimating the Deterioration and Effect of Interventions on Bridges](/
-
----
-
 ## Industry Projects
 
 ---
@@ -31,7 +23,6 @@ In this webpage, you will find a list of research projects, preprints and tutori
 * [Academic Cheatsheets](/pages/TIP_page.md)
 
 ---
-
 
 ## Journal Publications
 
