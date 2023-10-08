@@ -1,6 +1,14 @@
 # [Homepage](https://zachamida.github.io)
 
-In this webpage, you will find a list of research projects, preprints and tutorials that I've been involved in for the last few years. 
+In this webpage, you will find a list of research projects, preprints and tutorials that I've been involved in for the last few years. I also write some [blog articles](/pages/blog_page.md) about my personal experinces.
+
+---
+
+## Research Projects
+
+---
+
+* [OpenIPDM: A Probabilistic Framework for Estimating the Deterioration and Effect of Interventions on Bridges](/
 
 ---
 
@@ -21,14 +29,6 @@ In this webpage, you will find a list of research projects, preprints and tutori
 * [OpenIPDM Light](https://openipdm-light.streamlit.app)
 * [Concrete Surface Cracks Detection](https://cracks-detection.streamlit.app)
 * [Academic Cheatsheets](/pages/TIP_page.md)
-
----
-
-## Blog Articles
-
----
-
-* [Personal Blog](/pages/blog_page.md)
 
 ---
 
