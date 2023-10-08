@@ -1,6 +1,6 @@
 ## [Homepage](https://zachamida.github.io) / Personal Blog
 
-**Project description:** In these blog posts, I share general thoughts about my research, my personal experiences and projects.
+**Introduction:** In these blog posts, I share general thoughts about my research, my personal experiences and projects.
 
 ---
 
