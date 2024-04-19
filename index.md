@@ -28,6 +28,14 @@ In this webpage, you will find a list of research projects, preprints and tutori
 ## Journal Publications
 
 ---
+\[2024\]:
+> **Quantifying the relative change in maintenance costs due to delayed maintenance actions on transportation infrastructure.**\
+> **Z. Hamida**, J-A. Goulet\
+> Journal of Performance of Constructed Facilities\
+> <a href="/pdf/DST_Hamida_Goulet_2024.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>
+
 \[2023\]:
 > **Analytical Inference for the Inspectors Uncertainty Using Network-Scale Visual Inspections.**\
 > B. Laurent, B. Deka, **Z. Hamida**, J-A. Goulet\
