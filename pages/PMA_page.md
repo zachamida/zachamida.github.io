@@ -19,8 +19,12 @@
 > **Quantifying the relative change in maintenance costs due to delayed maintenance actions on transportation infrastructure.**\
 > **Z. Hamida**, J-A. Goulet\
 > Journal of Performance of Constructed Facilities\
-> <a href="/pdf/DST_Hamida_Goulet_2024.pdf">
+> <a href="https://youtu.be/Indb_dHdXB0">
+<img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
+<a href="/pdf/DST_Hamida_Goulet_2024.pdf">
 <img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://doi.org/10.1061/JPCFEV/CFENG-4802"> 
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
 </a>
 
 \[2023\]:
