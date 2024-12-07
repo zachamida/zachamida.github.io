@@ -15,6 +15,16 @@
 ### Resources
 
 ---
+\[2024\]:
+> **Scalable Probabilistic Deterioration Model based on Visual Inspections and Structural Attributes from Large Networks of Bridges.**\
+> S.A.K. Fakhri, **Z. Hamida**, J-A. Goulet\
+> Journal of Advanced Engineering Informatics\
+> <a href="pdf/SSMBNN_Fakhri_Hamida_Goulet_2024.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href=""> 
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+
 \[2023\]:
 > **Analytical Inference for the Inspectors Uncertainty Using Network-Scale Visual Inspections.**\
 > B. Laurent, B. Deka, **Z. Hamida**, J-A. Goulet\
