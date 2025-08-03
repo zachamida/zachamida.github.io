@@ -1,62 +1,230 @@
+# [Homepage](https://zachamida.github.io)
 
-# Welcome to Zachary Hamida's Personal Website
-
-In this webpage, you will find a list of research projects, preprints and tutorials that I've been involved in for the last few years. I also write [blog articles](/pages/blog_page.md) from time to time to share my personal experiences.
+In this webpage, you will find a list of research projects, preprints and tutorials that I've been involved in for the last few years. I also write [blog articles](/pages/blog_page.md) from time to time to share my personal experinces.
 
 ---
 
 ## Industry Projects
 
-<div class="card">
-  <ul>
-    <li><a href="/pages/DFC_page.md">Demand Forecasting for Consumer Goods</a></li>
-    <li><a href="/pages/PMA_page.md">Planning Maintenance on Transportation Infrastructure</a></li>
-    <li><a href="/pages/SHM_page.md">Modelling the Deterioration of Infrastructure</a></li>
-    <li><a href="/pages/WPO_page.md">Oil Field Development and Planning</a></li>
-  </ul>
-</div>
+---
 
-## Cloud Applications
-
-<div class="card">
-  <ul>
-    <li><a href="https://openipdm-light.streamlit.app">OpenIPDM Light</a></li>
-    <li><a href="https://cracks-detection.streamlit.app">Concrete Surface Cracks Detection</a></li>
-    <li><a href="/pages/TIP_page.md">Academic Cheatsheets</a></li>
-  </ul>
-</div>
-
-## Journal Publications
-
-<div class="card">
-  <ul>
-    <li><strong>2024:</strong> Scalable Probabilistic Deterioration Model based on Visual Inspections and Structural Attributes from Large Networks of Bridges. <a href="pdf/SSMBNN_Fakhri_Hamida_Goulet_2024.pdf">PDF</a> | <a href="https://doi.org/10.1016/j.aei.2024.103035">Web</a></li>
-    <li>Quantifying the relative change in maintenance costs due to delayed maintenance actions on transportation infrastructure. <a href="https://youtu.be/Indb_dHdXB0">YouTube</a> | <a href="/pdf/DST_Hamida_Goulet_2024.pdf">PDF</a> | <a href="https://doi.org/10.1061/JPCFEV.CFENG-4802">Web</a></li>
-    <li><strong>2023:</strong> Analytical Inference for the Inspectors Uncertainty Using Network-Scale Visual Inspections. <a href="https://www.youtube.com/watch?v=TYxGk99cC6M">YouTube</a> | <a href="/pdf/BL_BD_ZH_JG_2023.pdf">PDF</a> | <a href="https://doi.org/10.1061/JCCEE5.CPENG-5333">Web</a></li>
-    <li>Hierarchical Reinforcement Learning for Transportation Infrastructure Maintenance Planning <a href="https://youtu.be/4jnUAYb9kkI">YouTube</a> | <a href="/pdf/Hamida_Goulet_RLI_2023_preprint.pdf">PDF</a> | <a href="https://doi.org/10.1016/j.ress.2023.109214">Web</a></li>
-    <!-- Add more as needed -->
-  </ul>
-</div>
-
-## Conferences and Workshops
-
-<div class="card">
-  <ul>
-    <li><strong>2023:</strong> Maintenance Planning for Bridges Using Hierarchical Reinforcement Learning. <a href="/pdf/Hamida_Goulet_HRL_ICASP14.pdf">PDF</a> | <a href="http://hdl.handle.net/2262/103207">Web</a></li>
-    <li>Bayesian Neural Networks for Large-Scale Infrastructure Deterioration Models. <a href="/pdf/ICASP14_SSM_TAGI.pdf">PDF</a> | <a href="http://hdl.handle.net/2262/103198">Web</a></li>
-    <!-- Add more as needed -->
-  </ul>
-</div>
-
-## Thesis
-
-<div class="card">
-  <ul>
-    <li><strong>2020:</strong> Stochastic Modelling of Infrastructures Deterioration and Interventions based on Network-Scale Visual Inspections. <a href="/pdf/ZacharyHamida_PhDThesis_2020.pdf">PDF</a></li>
-    <li><strong>2016:</strong> Hybrid Optimization Techniques for Oil Field Development. <a href="https://scholarworks.aub.edu.lb/bitstream/handle/10938/20890/t-6558.pdf?sequence=1">PDF</a></li>
-  </ul>
-</div>
+* [Demand Forecasting for Consumer Goods](/pages/DFC_page.md)
+* [Planning Maintenance on Transportation Infrastructure](/pages/PMA_page.md)
+* [Modelling the Deterioration of Infrastructure](/pages/SHM_page.md)
+* [Oil Field Development and Planning](/pages/WPO_page.md)
 
 ---
 
-<div style="text-align:center; margin-top:32px; color:#555; font-style:italic;">*It is change, continuing change inevitable change, that is the dominant factor in society today. No sensible decision can be made any longer without taking into account not only the world as it is, but the world as it will be.*<br>~ Isaac Asimov, 1978.</div>
+## Cloud Applications
+
+---
+
+* [OpenIPDM Light](https://openipdm-light.streamlit.app)
+* [Concrete Surface Cracks Detection](https://cracks-detection.streamlit.app)
+* [Academic Cheatsheets](/pages/TIP_page.md)
+
+---
+
+## Journal Publications
+
+---
+\[2024\]:
+> **Scalable Probabilistic Deterioration Model based on Visual Inspections and Structural Attributes from Large Networks of Bridges.**\
+> S.A.K. Fakhri, **Z. Hamida**, J-A. Goulet\
+> Journal of Advanced Engineering Informatics\
+> <a href="pdf/SSMBNN_Fakhri_Hamida_Goulet_2024.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://doi.org/10.1016/j.aei.2024.103035"> 
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+>
+> **Quantifying the relative change in maintenance costs due to delayed maintenance actions on transportation infrastructure.**\
+> **Z. Hamida**, J-A. Goulet\
+> Journal of Performance of Constructed Facilities\
+> <a href="https://youtu.be/Indb_dHdXB0">
+<img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25"> </a> | <a href="/pdf/DST_Hamida_Goulet_2024.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://doi.org/10.1061/JPCFEV.CFENG-4802"> 
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+
+\[2023\]:
+> **Analytical Inference for the Inspectors Uncertainty Using Network-Scale Visual Inspections.**\
+> B. Laurent, B. Deka, **Z. Hamida**, J-A. Goulet\
+> Journal of Computing in Civil Engineering\
+> <a href="https://www.youtube.com/watch?v=TYxGk99cC6M">
+<img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
+</a> | <a href="/pdf/BL_BD_ZH_JG_2023.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://doi.org/10.1061/JCCEE5.CPENG-5333"> 
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+>
+> **Hierarchical Reinforcement Learning for Transportation Infrastructure Maintenance Planning**\
+> **Z. Hamida**, J-A. Goulet\
+> Reliability Engineering and System Safety\
+> <a href="https://youtu.be/4jnUAYb9kkI">
+<img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
+</a> | <a href="/pdf/Hamida_Goulet_RLI_2023_preprint.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://doi.org/10.1016/j.ress.2023.109214">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+
+\[2022\]:
+> **OpenIPDM: A Probabilistic Framework for Estimating the Deterioration and Effect of Interventions on Bridges**\
+> **Z. Hamida**, B. Laurent, J-A. Goulet\
+> SoftwareX\
+> <a href="https://youtube.com/playlist?list=PLSng2Crfnjmpu7RbEsfExY3gwI2FwxIjU">
+<img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
+</a> | <a href="https://doi.org/10.1016/j.softx.2022.101077">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://github.com/CivML-PolyMtl/OpenIPDM">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+>
+> **A Stochastic Model for Estimating the Network-Scale Deterioration and Effect of Interventions on Bridges**\
+> **Z. Hamida**, J-A. Goulet\
+> Structural Control and Health Monitoring, e2916\
+> <a href="https://www.youtube.com/watch?v=vx6ATEoEuUE">
+<img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
+</a> | <a href="/pdf/Hamida_Goulet_NSA_2022.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://dx.doi.org/10.1002/stc.2916">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+
+\[2021\]:
+> **Quantifying the Effects of Interventions Based on Visual Inspections from a Network of Bridges**\
+> **Z. Hamida**, J-A. Goulet\
+> Structure and Infrastructure Engineering\
+> <a href="https://www.youtube.com/watch?v=8CsiYl1LdUI">
+<img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
+</a> | <a href="/pdf/QEI_Hamida_Goulet_2021 Preprint.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://doi.org/10.1080/15732479.2021.1919149">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+>
+> **Network-Scale Deterioration Modelling of Bridges Based on Visual Inspections and Structural Attributes**\
+> **Z. Hamida**, J-A. Goulet\
+> Structural Safety 88\
+> <a href="https://www.youtube.com/watch?v=YLkn-RaC2IU">
+<img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
+</a> | <a href="/pdf/SSMKR_Hamida_Goulet_2020 Preprint.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="http://dx.doi.org/10.1016/j.strusafe.2020.102024">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+
+\[2020\]:
+> **Modeling infrastructure degradation from visual inspections using network‐scale state‐space models**\
+> **Z. Hamida**, J-A. Goulet\
+> Structural Control and Health Monitoring 27 (9), e2582\
+> <a href="https://www.youtube.com/watch?v=GBk35UW9m5A">
+<img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
+</a> | <a href="/pdf/Hamida_Goulet_VI_SSM_2020.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://dx.doi.org/10.1002/stc.2582">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+
+\[2017\]:
+> **An efficient geometry-based optimization approach for well placement in oil fields**\
+> **Z. Hamida**, F. Azizi, G. Saad\
+> Journal of Petroleum Science and Engineering 149, 383-392\
+> <a href="https://www.youtube.com/watch?v=Ta96GRc1aMo">
+<img style='vertical-align:middle;' src="/images/YouTube.png" width="25" height="25">
+</a> | <a href="/pdf/WPO_Hamida_et_al_2017.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://dx.doi.org/10.1016/j.petrol.2016.10.055">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+
+---
+
+## Conferences and Workshops
+
+---
+\[2023\]:
+> **Maintenance Planning for Bridges Using Hierarchical Reinforcement Learning.**\
+> **Z. Hamida**, J-A. Goulet\
+> 14th International Conference on Applications of Statistics and Probability in Civil Engineering, ICASP14, Dublin, Ireland.\
+> <a href="/pdf/Hamida_Goulet_HRL_ICASP14.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="http://hdl.handle.net/2262/103207">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+>
+> **Bayesian Neural Networks for Large-Scale Infrastructure Deterioration Models.**\
+> S.A.K. Fakhri, **Z. Hamida**, J-A. Goulet\
+> 14th International Conference on Applications of Statistics and Probability in Civil Engineering, ICASP14, Dublin, Ireland.\
+> <a href="/pdf/ICASP14_SSM_TAGI.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="http://hdl.handle.net/2262/103198">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+>
+> **OpenIPDM: Une librairie ouverte pour modéliser la dégradation d’un parc d’infrastructures.**\
+> **Z. Hamida**, J-A. Goulet\
+> 29e Colloque sur la progression de la recherche québécoise concernant les ouvrages d’art, Montreal, Canada.\
+> <a href="https://www.transports.gouv.qc.ca/fr/ministere/role_ministere/colloques-congres-conferences/colloques-ouvrages-art/Documents/29/OpenIPDM%20%28Infrastructure%20Probabilistic%20Deterioration%20Model%29%20%20une%20librairie%20ouverte%20pour%20modéliser%20la%20dégradation%20d’un%20parc%20d’infrastructures.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a> | <a href="https://www.transports.gouv.qc.ca/fr/ministere/role_ministere/colloques-congres-conferences/colloques-ouvrages-art/Documents/29/OpenIPDM%20%28Infrastructure%20Probabilistic%20Deterioration%20Model%29%20%20une%20librairie%20ouverte%20pour%20modéliser%20la%20dégradation%20d’un%20parc%20d’infrastructures.pdf">
+<img style='vertical-align:middle;' src="/images/WWW-Icon.png" width="20" height="20">
+</a>
+
+\[2022\]:
+> **Estimating the Bias Associated with Inspectors in the Context of Visual Inspections on Infrastructures.**\
+> B. Laurent, **Z. Hamida**, J-A. Goulet\
+> 11th International Conference on Structural Health Monitoring of Intelligent Infrastructure (SHMII-11), Montreal, Canada.\
+> <a href="/pdf/IBF_Laurent_Hamida_Goulet_2022.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>
+>
+> **Modelling the Deterioration of Infrastructures Using Network-Scale Visual Inspections.**\
+> **Z. Hamida**, J-A. Goulet\
+> 11th International Conference on Structural Health Monitoring of Intelligent Infrastructure (SHMII-11), Montreal, Canada.\
+> <a href="/pdf/Hamida_Goulet_OFD_2022.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>
+
+\[2019\]:
+> **State-Space Models for Network-Scale Analysis of Bridge Inspection Data.**\
+> **Z. Hamida**, J-A. Goulet\
+> 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP13), Seoul, South Korea.\
+> <a href="https://s-space.snu.ac.kr/bitstream/10371/153317/1/106.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>
+>
+> **Modeling Infrastructure Degradation from Visual Inspections Using Network-Scale State-Space Models.**\
+> **Z. Hamida**, J-A. Goulet\
+> Modeling and Numerical Methods for Uncertainty Quantification (MNMUQ 2019), Porquerolles Island, France.\
+> <a href="/pdf/mnmuq2019poster.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>
+
+---
+
+## Thesis
+
+---
+
+\[2020\]:
+> **Stochastic Modelling of Infrastructures Deterioration and Interventions based on Network-Scale Visual Inspections.**\
+> Z. Hamida\
+> Ph.D. Thesis, Polytechnique Montreal, Canada.\
+> <a href="/pdf/ZacharyHamida_PhDThesis_2020.pdf">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>
+
+\[2016\]: 
+> **Hybrid Optimization Techniques for Oil Field Development.**\
+> Z. Hamida\
+> M.Sc. Thesis, American University of Beirut, Lebanon.\
+> <a href="https://scholarworks.aub.edu.lb/bitstream/handle/10938/20890/t-6558.pdf?sequence=1">
+<img style='vertical-align:middle;' src="/images/PDF_icon.png" width="20" height="20">
+</a>
+
+---
+---
