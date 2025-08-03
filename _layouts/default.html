@@ -24,42 +24,45 @@
   <body>
     <div class="wrapper">
       <header>
+        <!--<h1><a href="{{ "/" | absolute_url }}">{{ "site.title | default: site.github.repository_name" }}</a></h1>-->
+        
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" width="120" />
+          <img style='margin:auto;' src="{{site.logo | relative_url}}" alt="Logo" width ="200"/>
         {% endif %}
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <button id="darkModeToggle" style="margin-top:16px; padding:8px 18px; background:#6366f1; color:#fff; border:none; border-radius:6px; font-weight:600; cursor:pointer; transition:background 0.2s;">🌙 Dark Mode</button>
+
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
+
+        <!--{% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>
+        {% endif %}
+        -->
+
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
       </header>
       <section>
-        {{ content }}
+
+      {{ content }}
+
       </section>
       <footer>
-        <div class="flex center">
-          <a href="mailto:your@email.com" title="Email"><svg width="24" height="24" fill="none" stroke="#6366f1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16v16H4z"/><polyline points="4,4 12,13 20,4"/></svg></a>
-          <a href="https://github.com/zachamida" title="GitHub"><svg width="24" height="24" fill="none" stroke="#6366f1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2C6.48 2 2 6.48 2 12c0 4.42 2.87 8.17 6.84 9.49.5.09.66-.22.66-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.15-1.1-1.46-1.1-1.46-.9-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.89 1.52 2.34 1.08 2.91.83.09-.65.35-1.08.63-1.33-2.22-.25-4.56-1.11-4.56-4.95 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.65 0 0 .84-.27 2.75 1.02A9.56 9.56 0 0112 6.8c.85.004 1.71.12 2.51.35 1.91-1.29 2.75-1.02 2.75-1.02.55 1.38.2 2.4.1 2.65.64.7 1.03 1.59 1.03 2.68 0 3.85-2.34 4.7-4.57 4.95.36.31.68.92.68 1.85v2.74c0 .27.16.58.67.48A10.01 10.01 0 0022 12c0-5.52-4.48-10-10-10z"/></svg></a>
-          <a href="https://www.linkedin.com/in/zacharyhamida" title="LinkedIn"><svg width="24" height="24" fill="none" stroke="#6366f1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><line x1="16" y1="8" x2="16" y2="16"/><line x1="12" y1="12" x2="12" y2="16"/><line x1="8" y1="8" x2="8" y2="16"/></svg></a>
-        </div>
-        <p><small>© 2025 Zachary Hamida. Hosted on GitHub Pages.</small></p>
+        <!--
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        -->
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    <script>
-      // Dark mode toggle
-      const toggleBtn = document.getElementById('darkModeToggle');
-      const body = document.body;
-      // Persist mode in localStorage
-      if (localStorage.getItem('dark-mode') === 'true') {
-        body.classList.add('dark-mode');
-        toggleBtn.textContent = '☀️ Light Mode';
-      }
-      toggleBtn.addEventListener('click', function() {
-        body.classList.toggle('dark-mode');
-        const isDark = body.classList.contains('dark-mode');
-        localStorage.setItem('dark-mode', isDark);
-        toggleBtn.textContent = isDark ? '☀️ Light Mode' : '🌙 Dark Mode';
-      });
-    </script>
     {% if site.google_analytics %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
     <script>
