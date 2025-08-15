@@ -13,6 +13,6 @@ export const profile = {
   linkedIn: "https://www.linkedin.com/in/zacharyhamida/",
   github: "https://github.com/zachamida",
   scholar: "https://scholar.google.ca/citations?user=J7NHpmYAAAAJ",
-  cvUrl: "https://zachamida.github.io/pdf/ZacharyHamidaCV.pdf",
-  imageUrl: "https://zachamida.github.io/images/logo.png"
+  cvUrl: "/pdf/ZacharyHamidaCV.pdf",
+  imageUrl: "/images/logo.png"
 };

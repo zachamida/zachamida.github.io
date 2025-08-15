@@ -1,8 +1,0 @@
-exports.id=94,exports.ids=[94],exports.modules={6669:(e,t,o)=>{Promise.resolve().then(o.t.bind(o,3724,23)),Promise.resolve().then(o.t.bind(o,5365,23)),Promise.resolve().then(o.t.bind(o,4900,23)),Promise.resolve().then(o.t.bind(o,4714,23)),Promise.resolve().then(o.t.bind(o,5392,23)),Promise.resolve().then(o.t.bind(o,8898,23))},7246:(e,t,o)=>{Promise.resolve().then(o.t.bind(o,114,23))},396:(e,t,o)=>{"use strict";o.r(t),o.d(t,{default:()=>RootLayout,metadata:()=>l});var i=o(4656),n=o(6726),a=o.n(n),s=o(554),r=o.n(s);let c="G-H9X9F4J1RL";o(5023);let l={title:"Portfolio | Research & Industry Projects",description:"A showcase of research and industry projects",icons:{icon:"/favicon.ico",shortcut:"/favicon.ico",apple:"/favicon.ico"}};function RootLayout({children:e}){return(0,i.jsxs)("html",{lang:"en",children:[(0,i.jsxs)("head",{children:[i.jsx("link",{rel:"icon",href:"/favicon.ico",type:"image/x-icon"}),i.jsx("link",{rel:"shortcut icon",href:"/favicon.ico",type:"image/x-icon"}),i.jsx("link",{rel:"apple-touch-icon",href:"/favicon.ico"}),i.jsx(r(),{strategy:"afterInteractive",src:`https://www.googletagmanager.com/gtag/js?id=${c}`}),i.jsx(r(),{id:"google-analytics",strategy:"afterInteractive",dangerouslySetInnerHTML:{__html:`
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', '${c}', {
-                page_path: window.location.pathname,
-              });
-            `}})]}),i.jsx("body",{className:`${a().variable} font-sans antialiased`,children:e})]})}},5023:()=>{}};
