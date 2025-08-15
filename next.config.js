@@ -1,9 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Configure for development
+  // Configure for static export and GitHub Pages
+  output: 'export',
+  trailingSlash: true,
   images: {
-    domains: ['zachamida.github.io'], // Allow images from your domain
-  }
+    unoptimized: true, // Required for static export
+  },
+  // Configure base path for GitHub Pages (if needed)
+  // basePath: '/zachamida.github.io',
+  // assetPrefix: '/zachamida.github.io/',
 };
 
 module.exports = nextConfig;

@@ -1,10 +1,4 @@
-'use client';
-
-import { useEffect, useState } from 'react';
-import { useParams, useRouter } from 'next/navigation';
 import { projects } from '@/data/projects';
-import { Project } from '@/types/project';
-import { ProjectContentParser } from '@/components/ProjectContentParser';
 import { CracksDetectionContent } from '@/components/CracksDetectionContent';
 import { OpenIPDMContent } from '@/components/OpenIPDMContent';
 import { DemandForecastingContent } from '@/components/DemandForecastingContent';
@@ -13,60 +7,37 @@ import { GoldenRunContent } from '@/components/GoldenRunContent';
 import { MaintenancePlanningContent } from '@/components/MaintenancePlanningContent';
 import { InfrastructureDeteriorationContent } from '@/components/InfrastructureDeteriorationContent';
 import { OilFieldPlanningContent } from '@/components/OilFieldPlanningContent';
-import { getOriginalProjectUrl, canFetchProjectContent } from '@/lib/projectUrls';
 
-export default function ProjectPage() {
-  const params = useParams();
-  const router = useRouter();
-  const [project, setProject] = useState<Project | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+// Generate static params for all projects
+export async function generateStaticParams() {
+  return projects.map((project) => ({
+    id: project.id,
+  }));
+}
 
-  useEffect(() => {
-    const projectId = params.id as string;
-    const foundProject = projects.find(p => p.id === projectId);
+interface ProjectPageProps {
+  params: {
+    id: string;
+  };
+}
 
-    if (!foundProject) {
-      setError('Project not found');
-      setLoading(false);
-      return;
-    }
+export default function ProjectPage({ params }: ProjectPageProps) {
+  const project = projects.find(p => p.id === params.id);
 
-    setProject(foundProject);
-    setLoading(false);
-  }, [params.id]);
-
-
-
-  if (loading) {
-    return (
-      <div className="min-h-screen p-4 md:p-8 bg-gray-900 text-gray-100">
-        <div className="max-w-4xl mx-auto">
-          <div className="animate-pulse">
-            <div className="h-8 bg-gray-700 rounded w-1/3 mb-4"></div>
-            <div className="h-4 bg-gray-700 rounded w-full mb-2"></div>
-            <div className="h-4 bg-gray-700 rounded w-2/3 mb-4"></div>
-            <div className="h-32 bg-gray-700 rounded mb-4"></div>
-          </div>
-        </div>
-      </div>
-    );
-  }
-
-  if (error || !project) {
+  if (!project) {
     return (
       <div className="min-h-screen p-4 md:p-8 bg-gray-900 text-gray-100">
         <div className="max-w-4xl mx-auto">
           <div className="text-center">
             <h1 className="text-2xl font-bold text-red-400 mb-4">
-              {error || 'Project not found'}
+              Project not found
             </h1>
-            <button
-              onClick={() => router.back()}
+            <a
+              href="/"
               className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
             >
               Go Back
-            </button>
+            </a>
           </div>
         </div>
       </div>
@@ -78,12 +49,12 @@ export default function ProjectPage() {
       <div className="max-w-4xl mx-auto">
         {/* Navigation */}
         <nav className="mb-8">
-          <button
-            onClick={() => router.back()}
+          <a
+            href="/"
             className="text-blue-400 hover:text-blue-300 flex items-center gap-2"
           >
             ← Back to Projects
-          </button>
+          </a>
         </nav>
 
         {/* Project Header */}
@@ -150,14 +121,7 @@ export default function ProjectPage() {
           <InfrastructureDeteriorationContent />
         ) : project.id === 'oil-field-planning' ? (
           <OilFieldPlanningContent />
-        ) : canFetchProjectContent(project.id) && (
-          <ProjectContentParser
-            projectId={project.id}
-            originalUrl={getOriginalProjectUrl(project.id)!}
-          />
-        )}
-
-
+        ) : null}
       </div>
     </div>
   );
