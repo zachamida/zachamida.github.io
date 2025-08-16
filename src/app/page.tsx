@@ -5,9 +5,11 @@ import { ProjectsGrid } from '@/components/ProjectsGrid';
 import { projects } from '@/data/projects';
 import { publications } from '@/data/publications';
 import { blogPosts } from '@/data/blogs';
+import { talks } from '@/data/talks';
 import { Sidebar } from '@/components/Sidebar';
 import { Publications } from '@/components/Publications';
 import { BlogPosts } from '@/components/BlogPosts';
+import { Talks } from '@/components/Talks';
 import { profile } from '@/data/profile';
 import { useGoogleAnalytics } from '@/lib/useGoogleAnalytics';
 
@@ -15,7 +17,8 @@ export default function Home() {
   useGoogleAnalytics();
   const [projectFilter, setProjectFilter] = useState<'research' | 'industry' | 'open-source' | undefined>();
   const [pubFilter, setPubFilter] = useState<'journal' | 'conference' | 'thesis' | undefined>();
-  const [activeTab, setActiveTab] = useState<'projects' | 'publications' | 'blog'>('projects');
+  const [talkFilter, setTalkFilter] = useState<'conference' | 'workshop' | 'seminar' | 'keynote' | 'poster' | undefined>();
+  const [activeTab, setActiveTab] = useState<'projects' | 'publications' | 'talks' | 'blog'>('projects');
   
   // Initialize filter from URL on mount
   useEffect(() => {
@@ -87,6 +90,16 @@ export default function Home() {
                   }`}
                 >
                   Publications
+                </button>
+                <button
+                  onClick={() => setActiveTab('talks')}
+                  className={`py-4 px-1 border-b-2 font-medium text-lg ${
+                    activeTab === 'talks'
+                      ? 'border-blue-500 text-blue-500'
+                      : 'border-transparent text-gray-400 hover:text-gray-300 hover:border-gray-600'
+                  }`}
+                >
+                  Talks
                 </button>
                 <button
                   onClick={() => setActiveTab('blog')}
@@ -163,10 +176,26 @@ export default function Home() {
                     Academic research and conference papers
                   </p>
                 </header>
-                <Publications 
-                  publications={publications} 
-                  filter={pubFilter} 
+                <Publications
+                  publications={publications}
+                  filter={pubFilter}
                   onFilterChange={handlePubFilterChange}
+                />
+              </section>
+            )}
+
+            {activeTab === 'talks' && (
+              <section>
+                <header className="mb-8">
+                  <h1 className="text-4xl font-bold mb-4">Talks & Presentations</h1>
+                  <p className="text-xl text-gray-400">
+                    Conference presentations, workshops, and seminars
+                  </p>
+                </header>
+                <Talks
+                  talks={talks}
+                  filter={talkFilter}
+                  onFilterChange={setTalkFilter}
                 />
               </section>
             )}
