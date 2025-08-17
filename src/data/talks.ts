@@ -59,6 +59,7 @@ export const talks: Talk[] = [
     year: 2023,
     type: "conference",
     description: "Presentation about a novel decision-making framework for planning maintenance activities on infrastructures, using a hierarchical reinforcement learning approach.",
+    slidesUrl: "/slides/41_ZacharyHamida_ICASP14.pdf"
   },
   {
     title: "OpenIPDM (Infrastructure Probabilistic Deterioration Model) : une librairie ouverte pour modéliser la dégradation d’un parc d’infrastructures",
@@ -285,7 +286,7 @@ export const talks: Talk[] = [
     year: 2017,
     type: "seminar",
     description: "Real-life data commonly consume high nonlinearity due to erratic measurements or due to neglecting some important factors. Therefore, when attempting to model and extract information from real-life data (i.e. performpredictions), ordinary models may perform poorly. Boosting is one of the techniques used to overcome this limitation. In this seminar, a boostedprediction framework will be presented with application on MTQ bridges dataset. The objective of the prediction model will be to predict the state of a bridge beam elements over time.",
-    slidesUrl: "/slides/Seminar 3.pdf"
+    slidesUrl: "/slides/Seminar 3.pptx"
   },
   {
     title: "An Overview on SHM Dataset of Bridges in Quebec with Preliminary Analysis",
@@ -295,7 +296,7 @@ export const talks: Talk[] = [
     year: 2017,
     type: "seminar",
     description: "This seminar will be delivered in two sections: the first section will introduce and examine the information available in the SHM dataset of bridgesin Quebec. The dataset is currently being studied to analyze the degradation of infrastructures on a network scale. The second section of the seminarwill present the steps towards using the aforementioned dataset in predictingfuture scenarios (i.e. degradation degree over time in structural elements).This will include handling biases and erratic measurements encountered naturally in real-life datasets.",
-    slidesUrl: "/slides/seminar 2.pdf"
+    slidesUrl: "/slides/seminar 2.pptx"
   },
   {
     title: "Genetic Algorithm Application in Computationally Demanding Problems",
