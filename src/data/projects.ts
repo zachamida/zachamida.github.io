@@ -19,6 +19,24 @@ export const projects: Project[] = [
     ]
   },
   {
+    id: 'azure-devops-ai-coder',
+    title: 'Azure DevOps AI Coder',
+    description: 'An open-source agentic AI service that automatically implements Azure DevOps Work Items by cloning the target repository, running an AI coding agent to implement the feature, and opening a Pull Request for human review.',
+    type: 'industry',
+    technologies: ['Python', 'FastAPI', 'Azure Container Apps', 'Azure OpenAI', 'Azure DevOps', 'Terraform'],
+    date: '2026',
+    url: 'https://github.com/zachamida/azure-devops-ai-coder',
+    image: '/images/projects/azure-devops-ai-coder.png',
+    isOpenSource: true,
+    githubUrl: 'https://github.com/zachamida/azure-devops-ai-coder',
+    hasDetailPage: false,
+    highlights: [
+      'Webhook-driven automation triggered by Azure DevOps Work Item tags',
+      'Agentic AI coding with Azure OpenAI for autonomous feature implementation',
+      'Deployed on Azure Container Apps with Terraform infrastructure-as-code'
+    ]
+  },
+  {
     id: 'golden-run-manufacturing',
     title: 'Golden Run in Manufacturing',
     description: 'A system for identifying golden runs in manufacturing processes through dual framework approach for detection and condition recommendation.',
