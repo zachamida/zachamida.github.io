@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/_next/static/css/a34a6ac1711bdc65.css","style",{"crossOrigin":""}]
-0:["4pOS6Y5pMJFddBbZDt5T2",[[["",{"children":["projects",{"children":[["id","openipdm-light","d"],{"children":["__PAGE__?{\"id\":\"openipdm-light\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a34a6ac1711bdc65.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["zu7oXlrmrkjRECujHsnoL",[[["",{"children":["projects",{"children":[["id","openipdm-light","d"],{"children":["__PAGE__?{\"id\":\"openipdm-light\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a34a6ac1711bdc65.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[3994,["185","static/chunks/app/layout-87eb19e6dbd55b34.js"],""]
 6:I[6954,[],""]
 7:I[7264,[],""]
