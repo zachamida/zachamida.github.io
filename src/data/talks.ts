@@ -296,7 +296,7 @@ export const talks: Talk[] = [
     year: 2017,
     type: "seminar",
     description: "This seminar will be delivered in two sections: the first section will introduce and examine the information available in the SHM dataset of bridgesin Quebec. The dataset is currently being studied to analyze the degradation of infrastructures on a network scale. The second section of the seminarwill present the steps towards using the aforementioned dataset in predictingfuture scenarios (i.e. degradation degree over time in structural elements).This will include handling biases and erratic measurements encountered naturally in real-life datasets.",
-    slidesUrl: "/slides/seminar 2.pptx"
+    slidesUrl: "/slides/Seminar 2.pptx"
   },
   {
     title: "Genetic Algorithm Application in Computationally Demanding Problems",
