@@ -2,6 +2,22 @@ import { Project } from '@/types/project';
 
 export const projects: Project[] = [
   {
+    id: 'ai-committee',
+    title: 'AI Committee',
+    description: 'An AI-powered multi-agent evaluation system using CrewAI to assess grant applications at scale, producing scored results with structured feedback via Azure Durable Functions.',
+    type: 'industry',
+    technologies: ['Python', 'CrewAI', 'Azure OpenAI', 'Azure Durable Functions', 'Streamlit', 'Pydantic'],
+    date: '2026',
+    url: '/projects/ai-committee',
+    image: '/images/projects/ai-committee.png',
+    hasDetailPage: true,
+    highlights: [
+      'Multi-agent committee with 12+ specialized AI evaluators',
+      'Serverless fan-out/fan-in orchestration via Azure Durable Functions',
+      'Built-in prompt injection detection and consensus validation'
+    ]
+  },
+  {
     id: 'diagnostic-ai-agents',
     title: 'Diagnostic AI Agents',
     description: 'Advanced AI agent system for diagnostic applications using agentic frameworks with RAG capabilities and Azure AI Services deployment.',

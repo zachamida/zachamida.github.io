@@ -14,6 +14,7 @@ import { MaintenancePlanningContent } from '@/components/MaintenancePlanningCont
 import { InfrastructureDeteriorationContent } from '@/components/InfrastructureDeteriorationContent';
 import { OilFieldPlanningContent } from '@/components/OilFieldPlanningContent';
 import { AzureDevOpsAICoderContent } from '@/components/AzureDevOpsAICoderContent';
+import { AICommitteeContent } from '@/components/AICommitteeContent';
 import { getOriginalProjectUrl, canFetchProjectContent } from '@/lib/projectUrls';
 
 interface ProjectPageClientProps {
@@ -153,6 +154,8 @@ export default function ProjectPageClient({ id }: ProjectPageClientProps) {
           <OilFieldPlanningContent />
         ) : project.id === 'azure-devops-ai-coder' ? (
           <AzureDevOpsAICoderContent />
+        ) : project.id === 'ai-committee' ? (
+          <AICommitteeContent />
         ) : canFetchProjectContent(project.id) && (
           <ProjectContentParser
             projectId={project.id}
