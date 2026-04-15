@@ -15,6 +15,7 @@ import { InfrastructureDeteriorationContent } from '@/components/InfrastructureD
 import { OilFieldPlanningContent } from '@/components/OilFieldPlanningContent';
 import { AzureDevOpsAICoderContent } from '@/components/AzureDevOpsAICoderContent';
 import { AICommitteeContent } from '@/components/AICommitteeContent';
+import { RAGProjectsContent } from '@/components/RAGProjectsContent';
 import { getOriginalProjectUrl, canFetchProjectContent } from '@/lib/projectUrls';
 
 interface ProjectPageClientProps {
@@ -156,6 +157,8 @@ export default function ProjectPageClient({ id }: ProjectPageClientProps) {
           <AzureDevOpsAICoderContent />
         ) : project.id === 'ai-committee' ? (
           <AICommitteeContent />
+        ) : project.id === 'rag-applications' ? (
+          <RAGProjectsContent />
         ) : canFetchProjectContent(project.id) && (
           <ProjectContentParser
             projectId={project.id}

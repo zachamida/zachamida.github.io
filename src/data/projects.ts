@@ -18,6 +18,22 @@ export const projects: Project[] = [
     ]
   },
   {
+    id: 'rag-applications',
+    title: 'RAG Applications',
+    description: 'A collection of Retrieval-Augmented Generation applications exploring vector search, knowledge graph traversal, table-aware parsing, and hybrid retrieval — all deployed on Azure Container Apps.',
+    type: 'industry',
+    technologies: ['Python', 'LightRAG', 'Azure AI Search', 'Azure Document Intelligence', 'Docling', 'Azure OpenAI', 'Azure Container Apps'],
+    date: '2025',
+    url: '/projects/rag-applications',
+    image: '/images/projects/rag-applications.png',
+    hasDetailPage: true,
+    highlights: [
+      'LightRAG with hybrid vector + knowledge graph retrieval',
+      'Table-routing RAG using Docling and Azure AI Search',
+      'Document Intelligence RAG with hybrid keyword + vector search'
+    ]
+  },
+  {
     id: 'diagnostic-ai-agents',
     title: 'Diagnostic AI Agents',
     description: 'Advanced AI agent system for diagnostic applications using agentic frameworks with RAG capabilities and Azure AI Services deployment.',
