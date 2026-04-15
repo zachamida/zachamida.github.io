@@ -13,6 +13,7 @@ import { GoldenRunContent } from '@/components/GoldenRunContent';
 import { MaintenancePlanningContent } from '@/components/MaintenancePlanningContent';
 import { InfrastructureDeteriorationContent } from '@/components/InfrastructureDeteriorationContent';
 import { OilFieldPlanningContent } from '@/components/OilFieldPlanningContent';
+import { AzureDevOpsAICoderContent } from '@/components/AzureDevOpsAICoderContent';
 import { getOriginalProjectUrl, canFetchProjectContent } from '@/lib/projectUrls';
 
 interface ProjectPageClientProps {
@@ -150,6 +151,8 @@ export default function ProjectPageClient({ id }: ProjectPageClientProps) {
           <InfrastructureDeteriorationContent />
         ) : project.id === 'oil-field-planning' ? (
           <OilFieldPlanningContent />
+        ) : project.id === 'azure-devops-ai-coder' ? (
+          <AzureDevOpsAICoderContent />
         ) : canFetchProjectContent(project.id) && (
           <ProjectContentParser
             projectId={project.id}

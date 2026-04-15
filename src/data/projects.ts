@@ -25,10 +25,11 @@ export const projects: Project[] = [
     type: 'industry',
     technologies: ['Python', 'FastAPI', 'Azure Container Apps', 'Azure OpenAI', 'Azure DevOps', 'Terraform'],
     date: '2026',
-    url: 'https://github.com/zachamida/azure-devops-ai-coder',
+    url: '/projects/azure-devops-ai-coder',
+    image: '/images/projects/azure-devops-ai-coder.png',
     isOpenSource: true,
     githubUrl: 'https://github.com/zachamida/azure-devops-ai-coder',
-    hasDetailPage: false,
+    hasDetailPage: true,
     highlights: [
       'Webhook-driven automation triggered by Azure DevOps Work Item tags',
       'Agentic AI coding with Azure OpenAI for autonomous feature implementation',
