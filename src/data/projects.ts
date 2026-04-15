@@ -26,7 +26,6 @@ export const projects: Project[] = [
     technologies: ['Python', 'FastAPI', 'Azure Container Apps', 'Azure OpenAI', 'Azure DevOps', 'Terraform'],
     date: '2026',
     url: 'https://github.com/zachamida/azure-devops-ai-coder',
-    image: '/images/projects/azure-devops-ai-coder.png',
     isOpenSource: true,
     githubUrl: 'https://github.com/zachamida/azure-devops-ai-coder',
     hasDetailPage: false,
