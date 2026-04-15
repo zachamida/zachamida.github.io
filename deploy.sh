@@ -77,6 +77,10 @@ cp -r "$TEMP_BUILD_DIR"/* .
 # Clean up temporary directory
 rm -rf "$TEMP_BUILD_DIR"
 
+# Ensure .nojekyll exists so GitHub Pages skips Jekyll processing
+# (required to serve _next/ static assets correctly)
+touch .nojekyll
+
 # Add all changes
 echo "📝 Adding changes to git..."
 git add .
