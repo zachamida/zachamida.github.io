@@ -8,7 +8,6 @@ import { ProjectContentParser } from '@/components/ProjectContentParser';
 import { CracksDetectionContent } from '@/components/CracksDetectionContent';
 import { OpenIPDMContent } from '@/components/OpenIPDMContent';
 import { DemandForecastingContent } from '@/components/DemandForecastingContent';
-import { DiagnosticAIContent } from '@/components/DiagnosticAIContent';
 import { GoldenRunContent } from '@/components/GoldenRunContent';
 import { MaintenancePlanningContent } from '@/components/MaintenancePlanningContent';
 import { InfrastructureDeteriorationContent } from '@/components/InfrastructureDeteriorationContent';
@@ -143,8 +142,6 @@ export default function ProjectPageClient({ id }: ProjectPageClientProps) {
           <OpenIPDMContent />
         ) : project.id === 'demand-forecasting' ? (
           <DemandForecastingContent />
-        ) : project.id === 'diagnostic-ai-agents' ? (
-          <DiagnosticAIContent />
         ) : project.id === 'golden-run-manufacturing' ? (
           <GoldenRunContent />
         ) : project.id === 'maintenance-planning' ? (

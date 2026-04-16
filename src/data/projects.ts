@@ -34,23 +34,6 @@ export const projects: Project[] = [
     ]
   },
   {
-    id: 'diagnostic-ai-agents',
-    title: 'Diagnostic AI Agents',
-    description: 'Advanced AI agent system for diagnostic applications using agentic frameworks with RAG capabilities and Azure AI Services deployment.',
-    type: 'industry',
-    technologies: ['Python', 'PromptFlow', 'CrewAI', 'Azure AI', 'RAG'],
-    date: '2025',
-    url: '/projects/diagnostic-ai-agents',
-    image: '/images/projects/diagnostic-ai.png',
-    hasDetailPage: true,
-    highlights: [
-      'Building agentic frameworks and applications',
-      'RAG application integration',
-      'Azure AI Services deployment',
-      'Manufactring line diagnostic capabilities'
-    ]
-  },
-  {
     id: 'azure-devops-ai-coder',
     title: 'Azure DevOps AI Coder',
     description: 'An open-source agentic AI service that automatically implements Azure DevOps Work Items by cloning the target repository, running an AI coding agent to implement the feature, and opening a Pull Request for human review.',
