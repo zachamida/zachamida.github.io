@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/_next/static/css/f4b2c8d0f73cb510.css","style",{"crossOrigin":""}]
-0:["Y2USf4jUM56gyccZEca-T",[[["",{"children":["projects",{"children":[["id","azure-devops-ai-coder","d"],{"children":["__PAGE__?{\"id\":\"azure-devops-ai-coder\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f4b2c8d0f73cb510.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["_uuFnjio044yoonh9ih62",[[["",{"children":["projects",{"children":[["id","azure-devops-ai-coder","d"],{"children":["__PAGE__?{\"id\":\"azure-devops-ai-coder\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f4b2c8d0f73cb510.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[3994,["185","static/chunks/app/layout-b48fc47e88855a64.js"],""]
 6:I[6954,[],""]
 7:I[7264,[],""]
