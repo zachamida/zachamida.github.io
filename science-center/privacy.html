@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy policy · Science Center publisher</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <h1>Privacy policy: Science Center publisher</h1>
+  <p class="meta">Last updated 1 November 2026</p>
+  <p>Science Center publisher is a private tool that uploads videos to the Science Center YouTube channels. Only the owner of those channels uses it. It is not offered to the public and has no users other than the channel owner.</p>
+
+  <h2>What the tool accesses</h2>
+  <p>When the channel owner connects a channel, the tool asks Google for permission to:</p>
+  <ul>
+    <li>upload videos to that channel (<code>youtube.upload</code>);</li>
+    <li>add captions and a thumbnail to those videos, add them to the channel's playlists, and update their descriptions (<code>youtube.force-ssl</code>).</li>
+  </ul>
+  <p>It uses this access only to publish videos the channel owner has reviewed and approved, and to keep the links in their descriptions up to date. It does not read viewers' data, comments, subscribers, analytics, or any other account's data.</p>
+
+  <h2>What is stored</h2>
+  <ul>
+    <li>A refresh token for each connected channel, so uploads can run without signing in each time. It is stored encrypted in the channel owner's Azure Key Vault and is never shared.</li>
+    <li>The ID and link of each uploaded video, kept with the project's own records.</li>
+  </ul>
+  <p>No personal data about viewers or any other person is collected, stored or shared.</p>
+
+  <h2>Removing access</h2>
+  <p>The channel owner can revoke the tool's access at any time at <a href="https://myaccount.google.com/permissions">myaccount.google.com/permissions</a>, and delete the stored token from Azure Key Vault.</p>
+
+  <h2>Google API Services</h2>
+  <p>Use of information received from Google APIs follows the <a href="https://developers.google.com/terms/api-services-user-data-policy">Google API Services User Data Policy</a>, including its Limited Use requirements.</p>
+
+  <footer>
+    <a href="./">Science Center</a> · Contact: <a href="mailto:zac.hamida@gmail.com">zac.hamida@gmail.com</a>
+  </footer>
+</main>
+</body>
+</html>
